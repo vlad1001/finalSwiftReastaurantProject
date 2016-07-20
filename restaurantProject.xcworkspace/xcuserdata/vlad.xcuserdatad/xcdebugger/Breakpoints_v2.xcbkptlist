@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "restaurantProject/SupportViewController.swift"
+            timestampString = "490670262.638306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "menuBar()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "restaurantProject/DiscountViewController.swift"
+            timestampString = "490670262.638306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getDailySaleImageUrl()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "restaurantProject.DiscountViewController.getDailySaleImageUrl () -&gt; ()"
+                  moduleName = "restaurantProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vlad/Desktop/restProj/restaurantProject/restaurantProject/DiscountViewController.swift"
+                  timestampString = "490392340.640949"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "430">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "restaurantProject.DiscountViewController.(getDailySaleImageUrl () -&gt; ()).(closure #1)"
+                  moduleName = "restaurantProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vlad/Desktop/restProj/restaurantProject/restaurantProject/DiscountViewController.swift"
+                  timestampString = "490392340.641421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "466">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "restaurantProject.DiscountViewController.(getDailySaleImageUrl () -&gt; ()).(closure #2)"
+                  moduleName = "restaurantProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vlad/Desktop/restProj/restaurantProject/restaurantProject/DiscountViewController.swift"
+                  timestampString = "490392340.641629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

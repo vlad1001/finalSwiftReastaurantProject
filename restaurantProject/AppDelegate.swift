@@ -1,12 +1,7 @@
-//
-//  AppDelegate.swift
-//  restaurantProject
-//
-//  Created by vlad on 12/07/2016.
-//  Copyright © 2016 vlad. All rights reserved.
-//
+
 
 import UIKit
+import Firebase
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,7 +10,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
+        FIRApp.configure()
         return true
     }
 
